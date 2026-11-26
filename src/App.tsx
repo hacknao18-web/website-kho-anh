@@ -196,7 +196,7 @@ export function App() {
               className="btn-heritage-primary inline-flex items-center gap-2 rounded-[4px] bg-[#8B1E1E] px-4 py-2 text-xs font-semibold text-[#FAF6F0] sm:text-sm"
             >
               <ArrowLeft className="h-4 w-4 text-[#E6CFA0]" />
-              <span>Không gian Truyền thống số</span>
+              <span>Bảo tàng số</span>
             </a>
           </div>
         </div>
@@ -706,7 +706,7 @@ export function App() {
               href={MAIN_PORTAL_URL}
               className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#C5A059] transition-colors hover:text-white"
             >
-              Quay về Không gian Truyền thống số &amp; Bảo tàng 3D
+              Quay về Bảo tàng số &amp; Bảo tàng 3D
               <ExternalLink className="h-3.5 w-3.5" />
             </a>
           </div>
