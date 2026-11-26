@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.pdf
+Mo_Website_Kho_Anh.bat
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
